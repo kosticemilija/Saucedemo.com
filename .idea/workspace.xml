@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03ecf5cd-d624-479f-8bf7-9e400a5a699f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutCompletePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutStepOnePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutStepTwoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Footer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Links.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ProductDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ProductListingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/AddToCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/BurgerMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CheckoutCompleteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CheckoutStepOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CheckoutStepTwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FooterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/LogoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/ProductDetailsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SortingTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hsfEhwwEhP3SftSX1moE7WkBvC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Tests in Saucedemo.com.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AddToCartTest.addAllItemsToCartFunctionality.executor": "Run",
+    "TestNG.AddToCartTest.addRandomItemToCartFunctionality.executor": "Run",
+    "TestNG.AddToCartTest.addToCartFunctionality.executor": "Run",
+    "TestNG.AddToCartTest.addToCartFunctionalityForTwoItems.executor": "Run",
+    "TestNG.AddToCartTest.executor": "Run",
+    "TestNG.AddToCartTest.removeFromCartFunctionality.executor": "Run",
+    "TestNG.BurgerMenuTest.aboutLinkInSidebar.executor": "Run",
+    "TestNG.BurgerMenuTest.addAllItemsToCartFunctionality.executor": "Run",
+    "TestNG.BurgerMenuTest.addToCartFunctionality.executor": "Run",
+    "TestNG.BurgerMenuTest.addToCartFunctionalityForTwoItems.executor": "Run",
+    "TestNG.BurgerMenuTest.allItemsLinkInSidebar.executor": "Run",
+    "TestNG.BurgerMenuTest.executor": "Run",
+    "TestNG.BurgerMenuTest.removeFromCartFunctionality.executor": "Run",
+    "TestNG.BurgerMenuTest.resetAppStateInSidebar.executor": "Run",
+    "TestNG.BurgerMenuTest.sidebarCloses.executor": "Run",
+    "TestNG.BurgerMenuTest.sidebarElementsVisibility.executor": "Run",
+    "TestNG.BurgerMenuTest.sidebarRemainsClosedAfterPageRefresh.executor": "Run",
+    "TestNG.BurgerMenuTest.visibleSidebarMenu.executor": "Run",
+    "TestNG.CartTest.cartIconNavigation.executor": "Run",
+    "TestNG.CartTest.cartStateAfterLogoutAndLogin.executor": "Run",
+    "TestNG.CartTest.checkoutButton.executor": "Run",
+    "TestNG.CartTest.continueShoppingButton.executor": "Run",
+    "TestNG.CartTest.executor": "Run",
+    "TestNG.CartTest.removeAllItemsFromCart.executor": "Run",
+    "TestNG.CartTest.removeFromCart.executor": "Run",
+    "TestNG.CartTest.verifyCartItemDetails.executor": "Run",
+    "TestNG.CheckoutCompleteTest.backHome.executor": "Run",
+    "TestNG.CheckoutCompleteTest.checkoutCompletePageLoadsCorrectly.executor": "Run",
+    "TestNG.CheckoutCompleteTest.executor": "Run",
+    "TestNG.CheckoutCompleteTest.navigationBackToCheckoutStepTwoPage.executor": "Run",
+    "TestNG.CheckoutStepOneTest.cancelButton.executor": "Run",
+    "TestNG.CheckoutStepOneTest.errorMessageForMissingFirstName.executor": "Run",
+    "TestNG.CheckoutStepOneTest.errorMessageForMissingLastName.executor": "Run",
+    "TestNG.CheckoutStepOneTest.errorMessageForMissingPostalCode.executor": "Run",
+    "TestNG.CheckoutStepOneTest.executor": "Run",
+    "TestNG.CheckoutStepOneTest.validInformationEntryAndNavigationToCheckoutStepTwo.executor": "Run",
+    "TestNG.CheckoutStepOneTest.verifyCheckoutLoadsCorrectly.executor": "Run",
+    "TestNG.CheckoutStepTwoTest.cancelButton.executor": "Run",
+    "TestNG.CheckoutStepTwoTest.checkoutStepTwoPageLoadsCorrectly.executor": "Run",
+    "TestNG.CheckoutStepTwoTest.executor": "Run",
+    "TestNG.CheckoutStepTwoTest.finishButton.executor": "Run",
+    "TestNG.CheckoutStepTwoTest.navigationBackToCheckoutStepOnePage.executor": "Run",
+    "TestNG.FooterTest.executor": "Run",
+    "TestNG.FooterTest.verifyFacebookLink.executor": "Run",
+    "TestNG.FooterTest.verifyFooterLoadsCorrectly.executor": "Run",
+    "TestNG.FooterTest.verifyLinkedInLink.executor": "Run",
+    "TestNG.FooterTest.verifyTwitterLink.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.loginWithInvalidUsername.executor": "Run",
+    "TestNG.LoginTests.successfulLoginWithValidCredentials.executor": "Run",
+    "TestNG.LogoutTest.executor": "Run",
+    "TestNG.LogoutTest.successfulLogout.executor": "Run",
+    "TestNG.ProductDetailsTest.addToCart.executor": "Run",
+    "TestNG.ProductDetailsTest.backToProducts.executor": "Run",
+    "TestNG.ProductDetailsTest.executor": "Run",
+    "TestNG.ProductDetailsTest.productDetails.executor": "Run",
+    "TestNG.ProductDetailsTest.productDetailsPage.executor": "Run",
+    "TestNG.SortingTest.executor": "Run",
+    "TestNG.SortingTest.testSortingByNameAToZ.executor": "Run",
+    "TestNG.SortingTest.testSortingByNameZToA.executor": "Run",
+    "TestNG.SortingTest.testSortingByPriceHighToLow.executor": "Run",
+    "TestNG.SortingTest.testSortingByPriceLowToHigh.executor": "Run",
+    "TestNG.Tests.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Tests">
+    <configuration name="FooterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Saucedemo.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.FooterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDetailsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Saucedemo.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.ProductDetailsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Saucedemo.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SortingTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest.testSortingByNameZToA" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Saucedemo.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SortingTest" />
+      <option name="METHOD_NAME" value="testSortingByNameZToA" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Saucedemo.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.FooterTest" />
+        <item itemvalue="TestNG.SortingTest.testSortingByNameZToA" />
+        <item itemvalue="TestNG.SortingTest" />
+        <item itemvalue="TestNG.ProductDetailsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03ecf5cd-d624-479f-8bf7-9e400a5a699f" name="Changes" comment="" />
+      <created>1718387597115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718387597115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Saucedemo_com$Tests_in_Saucedemo_com.ic" NAME="Tests in Saucedemo.com Coverage Results" MODIFIED="1718886261165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
